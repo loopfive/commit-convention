@@ -37,7 +37,7 @@ The scope provides additional contextual information about the area of the chang
 
 - **task**: The task number at hand.
 
-Examples: `feat(L5-304):`, `fix(OOL-003):`, `docs(2SS-87654):`
+Examples: `feat(L5-304):`, `fix(OOL-003):`, `chore(2SS-87654):`
 
 #### 📄 Subject
 
